@@ -19,4 +19,4 @@ attendees, accomplished since last meeting, accomplished during this meeting, is
 ## Meeting index
 | Date | Type | Summary | File |
 |---|---|---|---|
-| 2026-09-DD | Advisor (in person) | Presented the project concept; advisor asked for two agent delivery modes (ready-to-use and configurable) | [notes](2026-09-DD-advisor.md) |
+| 2026-09-23 | Advisor (in person) | Presented the project concept; advisor asked for two agent delivery modes (ready-to-use and configurable) | [notes](2026-09-23-advisor.md) |
